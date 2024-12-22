@@ -1,0 +1,25 @@
+En esta carpeta nos encontramos un ejecutable --> tiempo_fitness
+	Este producirá dos enteros , el primero de estos será el fitness de la solución obtenida y el segundo el tiempo que se tardó en relizar el algoritmo correspondiente.
+
+	NOTA:  Este ejecutable es unicamente necesario para el funcionamiento correcto del scripts "creadorEjecutables" , debido a que este solo muestra por pantalla el valor del fitness y 
+	       el valor del tiempo, si queremos ejecutar un caso en concreto y ver su solución ejecutaremos "ejecutable_P2" , el cual se explica en los apartados siguientes. 
+		
+También encontramos un scripts --> creadorEjecutables.sh
+	Este ejecutará el ejecutable "tiempo_fitness" con todos los archivos de datos que hay y con el algoritmo y semilla que le indiquemos por argumento.
+	Este scripts crea archivos de texto donde almacena , el fitness y el tiempo de cada una de las ejecuciones y la medias tanto del fitness como del tiempo (Necesario para rellenar las tablas).
+	El formato para lanzar el scripts es el siguiente: "./creadorEjecutables" "Algoritmo" "semilla"
+	
+	EJEMPLOS: ./creadorEjecutables 2 15
+		  ./creadorEjecutables 1 15
+		  ./creadorEjecutables 6 15
+
+En esta carpeta nos encontramos un ejecutable --> ejecutable_P2
+
+	Este producirá dos numeros , el primero de estos será el fitness de la solución obtenida , segundo el tiempo que se tardó en relizar el algoritmo correspondiente y
+	tambien mostrará la solucion(vector de 0 y 1) que produce el fitness.
+	
+	El formato para poder ejecutarlo es el siguiente : "./ejecutable_P2" "data_QKP_2324/data/jeu_*.txt" "ALGORITMO" "semilla"
+	
+		
+	EJEMPLOS: ./ejecutable_P2 data_QKP_2324/data/jeu_100_25_4.txt 4 15
+		  ./ejecutable_P2 data_QKP_2324/data/jeu_200_50_1.txt 1 15

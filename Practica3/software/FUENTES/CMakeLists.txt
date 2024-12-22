@@ -1,0 +1,32 @@
+cmake_minimum_required(VERSION 3.10)
+project(Practica2)
+
+set(CMAKE_CXX_STANDARD 14)
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O2") 
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_DEBUG ${CMAKE_CURRENT_SOURCE_DIR}/BIN)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_CURRENT_SOURCE_DIR}/BIN)
+
+message(STATUS "C++ compiler: ${CMAKE_CXX_COMPILER}")
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+
+add_executable(ejecutable_P3
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp 
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/LecturaFicheros.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/BMB.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/ES.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/ILS.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/FuncionesComunes.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/src/BL.cpp
+
+
+
+)
+
+set_target_properties(ejecutable_P3 PROPERTIES
+    RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../BIN
+    RUNTIME_OUTPUT_DIRECTORY_DEBUG ${CMAKE_CURRENT_SOURCE_DIR}/../BIN
+    RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_CURRENT_SOURCE_DIR}/../BIN
+)

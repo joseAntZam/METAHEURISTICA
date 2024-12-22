@@ -1,0 +1,120 @@
+Ejecutando con semilla 15
+Archivo: data_QKP_2324/data/jeu_100_100_10.txt --> Fitness producido: 347161 -- Tiempo producido: 0.436343
+Archivo: data_QKP_2324/data/jeu_100_100_1.txt --> Fitness producido: 92477 -- Tiempo producido: 0.462852
+Archivo: data_QKP_2324/data/jeu_100_100_2.txt --> Fitness producido: 343387 -- Tiempo producido: 0.421675
+Archivo: data_QKP_2324/data/jeu_100_100_3.txt --> Fitness producido: 440593 -- Tiempo producido: 0.199419
+Archivo: data_QKP_2324/data/jeu_100_100_5.txt --> Fitness producido: 448718 -- Tiempo producido: 0.188797
+Archivo: data_QKP_2324/data/jeu_100_100_6.txt --> Fitness producido: 81118 -- Tiempo producido: 0.465936
+Archivo: data_QKP_2324/data/jeu_100_100_7.txt --> Fitness producido: 8567 -- Tiempo producido: 0.142153
+Archivo: data_QKP_2324/data/jeu_100_100_8.txt --> Fitness producido: 60416 -- Tiempo producido: 0.448381
+Archivo: data_QKP_2324/data/jeu_100_100_9.txt --> Fitness producido: 452724 -- Tiempo producido: 0.154035
+Archivo: data_QKP_2324/data/jeu_100_25_10.txt --> Fitness producido: 38793 -- Tiempo producido: 0.563731
+Archivo: data_QKP_2324/data/jeu_100_25_1.txt --> Fitness producido: 26126 -- Tiempo producido: 0.473201
+Archivo: data_QKP_2324/data/jeu_100_25_2.txt --> Fitness producido: 109238 -- Tiempo producido: 0.269246
+Archivo: data_QKP_2324/data/jeu_100_25_3.txt --> Fitness producido: 3982 -- Tiempo producido: 0.147271
+Archivo: data_QKP_2324/data/jeu_100_25_4.txt --> Fitness producido: 97046 -- Tiempo producido: 0.386658
+Archivo: data_QKP_2324/data/jeu_100_25_5.txt --> Fitness producido: 122012 -- Tiempo producido: 0.118741
+Archivo: data_QKP_2324/data/jeu_100_25_6.txt --> Fitness producido: 58775 -- Tiempo producido: 0.531698
+Archivo: data_QKP_2324/data/jeu_100_25_7.txt --> Fitness producido: 20282 -- Tiempo producido: 0.390947
+Archivo: data_QKP_2324/data/jeu_100_25_8.txt --> Fitness producido: 28288 -- Tiempo producido: 0.475568
+Archivo: data_QKP_2324/data/jeu_100_25_9.txt --> Fitness producido: 65721 -- Tiempo producido: 0.5432
+Archivo: data_QKP_2324/data/jeu_100_50_10.txt --> Fitness producido: 159359 -- Tiempo producido: 0.470999
+Archivo: data_QKP_2324/data/jeu_100_50_1.txt --> Fitness producido: 149670 -- Tiempo producido: 0.504273
+Archivo: data_QKP_2324/data/jeu_100_50_2.txt --> Fitness producido: 203204 -- Tiempo producido: 0.416482
+Archivo: data_QKP_2324/data/jeu_100_50_3.txt --> Fitness producido: 39392 -- Tiempo producido: 0.43446
+Archivo: data_QKP_2324/data/jeu_100_50_4.txt --> Fitness producido: 197865 -- Tiempo producido: 0.347625
+Archivo: data_QKP_2324/data/jeu_100_50_5.txt --> Fitness producido: 76552 -- Tiempo producido: 0.519581
+Archivo: data_QKP_2324/data/jeu_100_50_6.txt --> Fitness producido: 17938 -- Tiempo producido: 0.319381
+Archivo: data_QKP_2324/data/jeu_100_50_7.txt --> Fitness producido: 76701 -- Tiempo producido: 0.539206
+Archivo: data_QKP_2324/data/jeu_100_50_8.txt --> Fitness producido: 70882 -- Tiempo producido: 0.564061
+Archivo: data_QKP_2324/data/jeu_100_50_9.txt --> Fitness producido: 113656 -- Tiempo producido: 0.529843
+Archivo: data_QKP_2324/data/jeu_100_75_10.txt --> Fitness producido: 261711 -- Tiempo producido: 0.409256
+Archivo: data_QKP_2324/data/jeu_100_75_1.txt --> Fitness producido: 374862 -- Tiempo producido: 0.0273344
+Archivo: data_QKP_2324/data/jeu_100_75_2.txt --> Fitness producido: 157081 -- Tiempo producido: 0.549374
+Archivo: data_QKP_2324/data/jeu_100_75_3.txt --> Fitness producido: 68429 -- Tiempo producido: 0.510799
+Archivo: data_QKP_2324/data/jeu_100_75_4.txt --> Fitness producido: 91361 -- Tiempo producido: 0.532926
+Archivo: data_QKP_2324/data/jeu_100_75_5.txt --> Fitness producido: 23254 -- Tiempo producido: 0.30858
+Archivo: data_QKP_2324/data/jeu_100_75_6.txt --> Fitness producido: 261883 -- Tiempo producido: 0.435479
+Archivo: data_QKP_2324/data/jeu_100_75_7.txt --> Fitness producido: 182301 -- Tiempo producido: 0.511616
+Archivo: data_QKP_2324/data/jeu_100_75_8.txt --> Fitness producido: 21540 -- Tiempo producido: 0.31766
+Archivo: data_QKP_2324/data/jeu_100_75_9.txt --> Fitness producido: 165754 -- Tiempo producido: 0.52507
+Archivo: data_QKP_2324/data/jeu_200_100_10.txt --> Fitness producido: 400689 -- Tiempo producido: 2.39259
+Archivo: data_QKP_2324/data/jeu_200_100_1.txt --> Fitness producido: 1830531 -- Tiempo producido: 0.858195
+Archivo: data_QKP_2324/data/jeu_200_100_2.txt --> Fitness producido: 239628 -- Tiempo producido: 1.91932
+Archivo: data_QKP_2324/data/jeu_200_100_3.txt --> Fitness producido: 11310 -- Tiempo producido: 0.604423
+Archivo: data_QKP_2324/data/jeu_200_100_4.txt --> Fitness producido: 46316 -- Tiempo producido: 1.01055
+Archivo: data_QKP_2324/data/jeu_200_100_5.txt --> Fitness producido: 1399530 -- Tiempo producido: 1.62553
+Archivo: data_QKP_2324/data/jeu_200_100_6.txt --> Fitness producido: 13536 -- Tiempo producido: 0.719402
+Archivo: data_QKP_2324/data/jeu_200_100_7.txt --> Fitness producido: 1124180 -- Tiempo producido: 2.09711
+Archivo: data_QKP_2324/data/jeu_200_100_8.txt --> Fitness producido: 1358656 -- Tiempo producido: 1.63964
+Archivo: data_QKP_2324/data/jeu_200_100_9.txt --> Fitness producido: 938193 -- Tiempo producido: 2.31288
+Archivo: data_QKP_2324/data/jeu_200_25_10.txt --> Fitness producido: 48197 -- Tiempo producido: 1.49159
+Archivo: data_QKP_2324/data/jeu_200_25_1.txt --> Fitness producido: 373033 -- Tiempo producido: 1.76725
+Archivo: data_QKP_2324/data/jeu_200_25_2.txt --> Fitness producido: 471142 -- Tiempo producido: 0.952023
+Archivo: data_QKP_2324/data/jeu_200_25_4.txt --> Fitness producido: 422582 -- Tiempo producido: 1.19514
+Archivo: data_QKP_2324/data/jeu_200_25_5.txt --> Fitness producido: 323894 -- Tiempo producido: 1.91084
+Archivo: data_QKP_2324/data/jeu_200_25_6.txt --> Fitness producido: 96631 -- Tiempo producido: 2.13697
+Archivo: data_QKP_2324/data/jeu_200_25_7.txt --> Fitness producido: 63899 -- Tiempo producido: 1.65907
+Archivo: data_QKP_2324/data/jeu_200_25_8.txt --> Fitness producido: 230254 -- Tiempo producido: 2.38147
+Archivo: data_QKP_2324/data/jeu_200_25_9.txt --> Fitness producido: 45558 -- Tiempo producido: 1.47729
+Archivo: data_QKP_2324/data/jeu_200_50_10.txt --> Fitness producido: 390074 -- Tiempo producido: 2.41185
+Archivo: data_QKP_2324/data/jeu_200_50_1.txt --> Fitness producido: 631523 -- Tiempo producido: 2.10962
+Archivo: data_QKP_2324/data/jeu_200_50_2.txt --> Fitness producido: 277380 -- Tiempo producido: 2.43027
+Archivo: data_QKP_2324/data/jeu_200_50_3.txt --> Fitness producido: 284142 -- Tiempo producido: 2.40539
+Archivo: data_QKP_2324/data/jeu_200_50_4.txt --> Fitness producido: 277804 -- Tiempo producido: 2.33147
+Archivo: data_QKP_2324/data/jeu_200_50_5.txt --> Fitness producido: 947235 -- Tiempo producido: 0.877543
+Archivo: data_QKP_2324/data/jeu_200_50_6.txt --> Fitness producido: 810266 -- Tiempo producido: 1.1662
+Archivo: data_QKP_2324/data/jeu_200_50_7.txt --> Fitness producido: 290493 -- Tiempo producido: 2.56291
+Archivo: data_QKP_2324/data/jeu_200_50_8.txt --> Fitness producido: 493185 -- Tiempo producido: 2.44843
+Archivo: data_QKP_2324/data/jeu_200_50_9.txt --> Fitness producido: 84548 -- Tiempo producido: 1.65627
+Archivo: data_QKP_2324/data/jeu_200_75_10.txt --> Fitness producido: 110572 -- Tiempo producido: 1.40819
+Archivo: data_QKP_2324/data/jeu_200_75_1.txt --> Fitness producido: 676825 -- Tiempo producido: 2.5277
+Archivo: data_QKP_2324/data/jeu_200_75_2.txt --> Fitness producido: 349907 -- Tiempo producido: 2.40958
+Archivo: data_QKP_2324/data/jeu_200_75_3.txt --> Fitness producido: 28990 -- Tiempo producido: 0.864283
+Archivo: data_QKP_2324/data/jeu_200_75_4.txt --> Fitness producido: 118134 -- Tiempo producido: 1.47075
+Archivo: data_QKP_2324/data/jeu_200_75_5.txt --> Fitness producido: 93180 -- Tiempo producido: 1.31944
+Archivo: data_QKP_2324/data/jeu_200_75_6.txt --> Fitness producido: 221918 -- Tiempo producido: 2.08271
+Archivo: data_QKP_2324/data/jeu_200_75_7.txt --> Fitness producido: 281341 -- Tiempo producido: 2.40481
+Archivo: data_QKP_2324/data/jeu_200_75_8.txt --> Fitness producido: 1075886 -- Tiempo producido: 1.70177
+Archivo: data_QKP_2324/data/jeu_200_75_9.txt --> Fitness producido: 829200 -- Tiempo producido: 2.0548
+Archivo: data_QKP_2324/data/jeu_300_25_10.txt --> Fitness producido: 624993 -- Tiempo producido: 6.47901
+Archivo: data_QKP_2324/data/jeu_300_25_1.txt --> Fitness producido: 17049 -- Tiempo producido: 1.77253
+Archivo: data_QKP_2324/data/jeu_300_25_2.txt --> Fitness producido: 404524 -- Tiempo producido: 6.92971
+Archivo: data_QKP_2324/data/jeu_300_25_4.txt --> Fitness producido: 811331 -- Tiempo producido: 4.87992
+Archivo: data_QKP_2324/data/jeu_300_25_5.txt --> Fitness producido: 9531 -- Tiempo producido: 1.86106
+Archivo: data_QKP_2324/data/jeu_300_25_6.txt --> Fitness producido: 356255 -- Tiempo producido: 6.80266
+Archivo: data_QKP_2324/data/jeu_300_25_7.txt --> Fitness producido: 922579 -- Tiempo producido: 3.54027
+Archivo: data_QKP_2324/data/jeu_300_25_8.txt --> Fitness producido: 5151 -- Tiempo producido: 2.31952
+Archivo: data_QKP_2324/data/jeu_300_25_9.txt --> Fitness producido: 314806 -- Tiempo producido: 7.38717
+Archivo: data_QKP_2324/data/jeu_300_50_10.txt --> Fitness producido: 1870208 -- Tiempo producido: 2.85192
+Archivo: data_QKP_2324/data/jeu_300_50_1.txt --> Fitness producido: 639274 -- Tiempo producido: 6.53018
+Archivo: data_QKP_2324/data/jeu_300_50_2.txt --> Fitness producido: 65012 -- Tiempo producido: 2.17204
+Archivo: data_QKP_2324/data/jeu_300_50_3.txt --> Fitness producido: 1553685 -- Tiempo producido: 4.67405
+Archivo: data_QKP_2324/data/jeu_300_50_4.txt --> Fitness producido: 272077 -- Tiempo producido: 4.69615
+Archivo: data_QKP_2324/data/jeu_300_50_5.txt --> Fitness producido: 1109194 -- Tiempo producido: 6.73064
+Archivo: data_QKP_2324/data/jeu_300_50_6.txt --> Fitness producido: 1177406 -- Tiempo producido: 6.09429
+Archivo: data_QKP_2324/data/jeu_300_50_7.txt --> Fitness producido: 15592 -- Tiempo producido: 1.62366
+Archivo: data_QKP_2324/data/jeu_300_50_8.txt --> Fitness producido: 1228956 -- Tiempo producido: 6.22991
+Archivo: data_QKP_2324/data/jeu_300_50_9.txt --> Fitness producido: 1187917 -- Tiempo producido: 6.09869
+FITNESS MEDIO DE CADA ARCHIVO
+100_25: 57026.30
+100_50: 110521.90
+100_75: 160817.60
+100_100: 252795.66
+200_25: 230576.66
+200_50: 448665.00
+200_75: 378595.30
+200_100: 736256.90
+300_25: 385135.44
+300_50: 911932.10
+TIEMPO MEDIO DE CADA ARCHIVO
+100_25: .3900261000
+100_50: .4645911000
+100_75: .4128094400
+100_100: .3243990000
+200_25: 1.6635158888
+200_50: 2.0399953000
+200_75: 1.8244033000
+200_100: 1.5179640000
+300_25: 4.6635388888
+300_50: 4.7701530000

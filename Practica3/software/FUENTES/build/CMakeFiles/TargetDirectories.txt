@@ -1,0 +1,3 @@
+/home/jose/Asignaturas3_2Cuatri/MH/Practicas/practica3/software/FUENTES/build/CMakeFiles/ejecutable_P3.dir
+/home/jose/Asignaturas3_2Cuatri/MH/Practicas/practica3/software/FUENTES/build/CMakeFiles/edit_cache.dir
+/home/jose/Asignaturas3_2Cuatri/MH/Practicas/practica3/software/FUENTES/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 CMakeFiles/ejecutable_P2.dir/src/main.cpp.o CMakeFiles/ejecutable_P2.dir/src/LecturaFicheros.cpp.o CMakeFiles/ejecutable_P2.dir/src/AM.cpp.o CMakeFiles/ejecutable_P2.dir/src/AGG.cpp.o CMakeFiles/ejecutable_P2.dir/src/AGE.cpp.o CMakeFiles/ejecutable_P2.dir/src/BL.cpp.o -o /home/jose/Asignaturas3_2Cuatri/MH/Practicas/practica2/software/BIN/ejecutable_P2 
